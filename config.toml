@@ -1,4 +1,4 @@
-baseURL = "http://blog.dayfixer.cn/"
+baseURL = "http://dayfixer.github.io/"
 languageCode = "en-us"
 title = "dayfixer's blog"
 theme = "cactus"
