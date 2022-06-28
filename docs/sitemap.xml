@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dayfixer.github.io/categories/</loc>
+    <loc>http://blog.dayfixer.cn/categories/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/</loc>
+    <loc>http://blog.dayfixer.cn/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/tags/git/</loc>
+    <loc>http://blog.dayfixer.cn/tags/git/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/posts/2022-06-28-git/</loc>
+    <loc>http://blog.dayfixer.cn/posts/2022-06-28-git/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/tags/github/</loc>
+    <loc>http://blog.dayfixer.cn/tags/github/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/posts/</loc>
+    <loc>http://blog.dayfixer.cn/posts/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/tags/</loc>
+    <loc>http://blog.dayfixer.cn/tags/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/categories/tools/</loc>
+    <loc>http://blog.dayfixer.cn/categories/tools/</loc>
     <lastmod>2022-06-28T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dayfixer.github.io/about/</loc>
+    <loc>http://blog.dayfixer.cn/about/</loc>
     <lastmod>2022-06-21T17:51:42+00:00</lastmod>
   </url>
 </urlset>
