@@ -5,3 +5,4 @@ resources/
 .hugo_build.lock
 .travis.yml
 deploy.sh
+CNAME
