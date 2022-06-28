@@ -1,5 +1,4 @@
 _backup/
-public/
 resources/
 
 .hugo_build.lock

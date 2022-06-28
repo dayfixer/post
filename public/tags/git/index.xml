@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on dayfixer&#39;s blog</title>
+    <link>http://dayfixer.cn/tags/git/</link>
+    <description>Recent content in git on dayfixer&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>JiangY</copyright>
+    <lastBuildDate>Tue, 28 Jun 2022 09:00:00 +0000</lastBuildDate><atom:link href="http://dayfixer.cn/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git for Windows Setting</title>
+      <link>http://dayfixer.cn/posts/2022-06-28-git/</link>
+      <pubDate>Tue, 28 Jun 2022 09:00:00 +0000</pubDate>
+      
+      <guid>http://dayfixer.cn/posts/2022-06-28-git/</guid>
+      <description>设置git 1git config --global user.name &amp;#34;xxx&amp;#34; 2git config --global user.email &amp;#34;xxx@xxx.com&amp;#34; 查看当前配置：
+1git config --global user.name 2git config --global user.email 查看或生成ssh文件 查看：
+1cd ~/.ssh 2ls 生成：
+1ssh-keygen -t rsa -C &amp;#34;xxx&amp;#34; 添加密钥到ssh-agent 确保 ssh-agent 是可用的。 ssh-agent是一种控制用来保存公钥身份验证所使用的私钥的程序，其实ssh-agent就是一个密钥管理器，运行ssh-agent以后，使用ssh-add将私钥交给ssh-agent保管，其他程序需要身份验证的时候可以将验证申请交给ssh-agent来完成整个认证过程。
+1eval &amp;#34;$(ssh-agent -s)&amp;#34; # start the ssh-agent in the background 添加生成的 SSH key 到 ssh-agent:
+1ssh-add ~/.ssh/id_rsa 将公钥复制到Github 略
+测试 1ssh -T git@github.com 其他 1#提交检出均不转换 2$ git config --global core.autocrlf false </description>
+    </item>
+    
+  </channel>
+</rss>
