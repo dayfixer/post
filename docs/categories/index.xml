@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on dayfixer&#39;s blog</title>
-    <link>http://blog.dayfixer.cn/categories/</link>
+    <link>http://dayfixer.github.io/categories/</link>
     <description>Recent content in Categories on dayfixer&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>JiangY</copyright>
-    <lastBuildDate>Tue, 28 Jun 2022 09:00:00 +0000</lastBuildDate><atom:link href="http://blog.dayfixer.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 09:00:00 +0000</lastBuildDate><atom:link href="http://dayfixer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tools</title>
-      <link>http://blog.dayfixer.cn/categories/tools/</link>
+      <link>http://dayfixer.github.io/categories/tools/</link>
       <pubDate>Tue, 28 Jun 2022 09:00:00 +0000</pubDate>
       
-      <guid>http://blog.dayfixer.cn/categories/tools/</guid>
+      <guid>http://dayfixer.github.io/categories/tools/</guid>
       <description></description>
     </item>
     

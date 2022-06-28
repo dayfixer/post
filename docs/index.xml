@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dayfixer&#39;s blog</title>
-    <link>http://blog.dayfixer.cn/</link>
+    <link>http://dayfixer.github.io/</link>
     <description>Recent content on dayfixer&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>JiangY</copyright>
-    <lastBuildDate>Tue, 28 Jun 2022 09:00:00 +0000</lastBuildDate><atom:link href="http://blog.dayfixer.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 09:00:00 +0000</lastBuildDate><atom:link href="http://dayfixer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git for Windows Setting</title>
-      <link>http://blog.dayfixer.cn/posts/2022-06-28-git/</link>
+      <link>http://dayfixer.github.io/posts/2022-06-28-git/</link>
       <pubDate>Tue, 28 Jun 2022 09:00:00 +0000</pubDate>
       
-      <guid>http://blog.dayfixer.cn/posts/2022-06-28-git/</guid>
+      <guid>http://dayfixer.github.io/posts/2022-06-28-git/</guid>
       <description>设置git 1git config --global user.name &amp;#34;xxx&amp;#34; 2git config --global user.email &amp;#34;xxx@xxx.com&amp;#34; 查看当前配置：
 1git config --global user.name 2git config --global user.email 查看或生成ssh文件 查看：
 1cd ~/.ssh 2ls 生成：
@@ -25,10 +25,10 @@
     
     <item>
       <title>About me</title>
-      <link>http://blog.dayfixer.cn/about/</link>
+      <link>http://dayfixer.github.io/about/</link>
       <pubDate>Tue, 21 Jun 2022 17:51:42 +0000</pubDate>
       
-      <guid>http://blog.dayfixer.cn/about/</guid>
+      <guid>http://dayfixer.github.io/about/</guid>
       <description>Github: dayfixer</description>
     </item>
     
